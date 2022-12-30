@@ -1,3 +1,10 @@
+var topics = ["HTML", "CSS", "Git", "JavaScript"];
+
+for (var x = 0; x < topics.length; x++) {
+  console.log(topics[x]);
+}
+
+/*
 var topic = "HTML";
 
 if (topic === "HTML") {
@@ -11,3 +18,4 @@ if (topic === "HTML") {
 } else {
   console.log("Please try again!");
 }
+*/
